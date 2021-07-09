@@ -27,6 +27,7 @@ __
 ## Data Collection Source
 * We used the most recent crypto currency data from [Investing.com](https://www.investing.com/crypto/)
 * Pull more cryptocurrency data that you want to analyze, add to the [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
+
 __
 
 ## Technologies
@@ -38,6 +39,7 @@ This project is written in Python within the Jupyter Lab environment with the fo
 * Scikit Learn
 * Hvplot
 * FBProphet
+
 __
 
 ## Installation Guide
@@ -60,7 +62,7 @@ pip install -U scikit-learn
  conda activate dev 
  conda install -c pyviz hvplot 
 ```
-* FBProphet. The easiest way to install is through Conda. Best practice, use an environment rather than install in the base env
+* FBProphet using Conda. The easiest way to install is through Conda. Best practice, use an environment rather than install in the base env
  ```python
  conda activate dev 
  conda install -c conda-forge prophet
