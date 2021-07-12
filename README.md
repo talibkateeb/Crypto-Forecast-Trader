@@ -24,7 +24,8 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * In this project we are focused on Bitcoin because it is the largest cryptocurrency by market cap, and for its exceptional market growth. 
 * We selected a few other assets which are called "altcoins" because Bitcoin and other coins tend to go through cycles. It may be the case that Bitcoin rallies for a period then stalls out. At this point, altcoins tend to take their turn rallying. This gives an opportunity for our traders to plan and execute long and short trading strategies, and be profitable even when Bitcoin prices fall or rises. 
 
-![images-1](https://user-images.githubusercontent.com/80144026/125234450-9ef82880-e295-11eb-8588-4ecb1a2b3ee9.jpeg)
+![images](https://user-images.githubusercontent.com/80144026/125237486-9e15c580-e29a-11eb-804b-fc3f25117218.jpeg)
+
 
 
 ## Project Sections
