@@ -23,7 +23,8 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * In this project we are focused on Bitcoin because it is the largest cryptocurrency by market cap, and for its exceptional market growth. 
 * We selected a few other assets which are called "altcoins" because Bitcoin and other coins tend to go through cycles. It may be the case that Bitcoin rallies for a period then stalls out. At this point, altcoins tend to take their turn rallying. This gives an opportunity for our traders to plan and execute long and short trading strategies, and be profitable even when Bitcoin prices fall or rises. 
 * We used prophet by Facebook to predict future pricing for Bitcoin and the selected Altcoins from most recent data.
-* Lastly, our machine learning trading algorithm will create entry and exit signals and returns.
+* Then we wrote an algorithm that uses DMAC Trading Strategy,and short positions. Then we backtest each trading strategy and evaluate the risk/reward metrics.
+* Lastly, our machine learning trading algorithm will create trading signals.
 
 
 ## Machine Learning Models
