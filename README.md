@@ -1,6 +1,8 @@
 # CRYPTO FORECAST TRADER
 
+
 ### A Machine Learning Trading Algorithm Project
+
 
 
 ![Bitcoin-Traders-–-The-Official-Trading-Bot](https://user-images.githubusercontent.com/80144026/125231211-2c844a00-e28f-11eb-9f95-b3c4a9ba0832.png)
