@@ -22,9 +22,12 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * Our audience are investors/traders who are looking for techniques to maximize their opportunities for success, establish preconditions to check on their portfolios and for buying/selling assets. They are also looking for other assets that are correlated, and may bring more returns percentage wise than the others, allowing them to  execute trades at a much higher rate, possibly making more profits at a more accelerated pace.
 * In this project we are focused on Bitcoin because it is the largest cryptocurrency by market cap, and for its exceptional market growth. 
 * We selected a few other assets which are called "altcoins" because Bitcoin and other coins tend to go through cycles. It may be the case that Bitcoin rallies for a period then stalls out. At this point, altcoins tend to take their turn rallying. This gives an opportunity for our traders to plan and execute long and short trading strategies, and be profitable even when Bitcoin prices fall or rises. 
-* We used prophet by Facebook to predict future pricing for Bitcoin and the selected Altcoins from most recent data.
-* Then we wrote an algorithm that uses DMAC Trading Strategy,and short positions. Then we backtest each trading strategy and evaluate the risk/reward metrics.
-* Lastly, our machine learning trading algorithm will create trading signals.
+
+## Project Sections
+
+* First, we used prophet by Facebook to predict future pricing for Bitcoin and the selected Altcoins from most recent data, then we identified correlated assets.
+* We wrote an algorithm that uses DMAC Trading Strategy,and short positions. Then we backtest each trading strategy and evaluate the risk/reward metrics.
+* Lastly, we wrote machine learning trading algorithms and ran three models to find the one that performed the best.
 
 
 ## Machine Learning Models
