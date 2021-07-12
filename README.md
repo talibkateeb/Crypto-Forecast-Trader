@@ -7,7 +7,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 
 
-      ![Bitcoin-Traders-–-The-Official-Trading-Bot](https://user-images.githubusercontent.com/80144026/125231211-2c844a00-e28f-11eb-9f95-b3c4a9ba0832.png)
+   ![Bitcoin-Traders-–-The-Official-Trading-Bot](https://user-images.githubusercontent.com/80144026/125231211-2c844a00-e28f-11eb-9f95-b3c4a9ba0832.png)
 
 
 ## Executive Summary
@@ -15,7 +15,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * In this project we are building a cryptocurrency machine learning trading algorithm project focusing on Bitcoin, and that can be used for any crytocurrency asset.
 * Machine Learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention. In this project, Machine Learning will provide price forecasting, create trading signals, and identify correlation of crytocurrency assets.
 
-              ![machine-learning-concept](https://user-images.githubusercontent.com/80144026/125231252-41f97400-e28f-11eb-8869-009c19b65870.jpg)
+     ![machine-learning-concept](https://user-images.githubusercontent.com/80144026/125231252-41f97400-e28f-11eb-8869-009c19b65870.jpg)
 
 
 ## Project Goals 
