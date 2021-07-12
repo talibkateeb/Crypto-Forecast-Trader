@@ -50,9 +50,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 
 ## Data Collection Source
-* We used the most recent crypto currency data from [Investing.com](https://www.investing.com/crypto/)
-* Pull more cryptocurrency data that you want to analyze, add to the [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
-
+* We used the most recent crypto currency data from [Investing.com](https://www.investing.com/crypto/) under [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
 
 
 ## Technologies
