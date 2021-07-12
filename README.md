@@ -39,7 +39,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 
 ## Machine Learning Models
-* We used Supervised Learning, Classification: SVM, Logistic Regression, Naive Bayes
+* We used Supervised Learning > Classification: SVM, Logistic Regression, Naive Bayes
 
 ![Supervised-Learning](https://user-images.githubusercontent.com/80144026/125231479-acaaaf80-e28f-11eb-838f-d0a29a4dd597.jpg)
 
