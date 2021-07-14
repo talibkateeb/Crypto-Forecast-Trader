@@ -50,7 +50,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 
 ## Data Collection Source
-* We used the most recent crypto currency data from [Investing.com](https://www.investing.com/crypto/) under [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
+* We used the most recent crypto currency data from [coindesk.com](coindesk.com) under [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
 
 
 ## Technologies
@@ -127,27 +127,7 @@ The content contained in this project is for informational purposes only. You sh
 ## License
 
 
-MIT License
-
-Copyright (c) 2021 talibkateeb
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+[Click here to view MIT License](https://github.com/talibkateeb/Crypto-Forecast-Trader/blob/main/LICENSE)
 
 
 
