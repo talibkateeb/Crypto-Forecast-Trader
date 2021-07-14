@@ -1,4 +1,4 @@
-# CRYPTO FORECAST TRADER
+# 365 TRADER AI
 
 
 ### A Machine Learning Trading Algorithm Project
