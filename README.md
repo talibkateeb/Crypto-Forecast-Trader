@@ -34,8 +34,8 @@ Before you proceed, please read our disclosure at the bottom of this page.
 ## Project Sections
 
 * First, we used prophet by Facebook to predict future pricing for Bitcoin and the selected Altcoins from most recent data. Then we identified correlated assets.
-* We wrote an algorithm that uses DMAC Trading Strategy,and short positions. We backtested each trading strategy and evaluated the risk/reward metrics.
-* Lastly, we wrote machine learning trading algorithms and ran three models to find the one that performed the best.
+* We wrote machine learning trading algorithms and ran three models to find the one that performed the best.
+* Lastly, we explored an algorithm for long and short positions that uses DMAC Trading Strategy,and short positions. We backtested each trading strategy and evaluated the risk/reward metrics.
 
 
 ## Machine Learning Models
@@ -45,8 +45,16 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 
 
-## Results and Conclusions of the Machine Learning Model
-(Under Construction)
+## Results and Conclusions
+PRICE FORECASTING: (under construction)
+
+CORRELATION: (under construction)
+
+MACHINE LEARNING TRADING ALGORITHM: (under construction)
+
+LONG AND SHORT POSITION: (under construction)
+
+
 
 
 ## Data Collection Source
