@@ -20,10 +20,11 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 ## Project Goals 
 
-* Our audience are investors/traders who are looking for techniques to maximize their opportunities for success, establish preconditions to check on their portfolios and for buying/selling assets. They are also looking for other assets that are correlated, and may bring more returns percentage wise than the others, allowing them to  execute trades at a much higher rate, possibly making more profits at a more accelerated pace.
-* In this project we are focused on Bitcoin because it is the largest cryptocurrency by market cap, and for its exceptional market growth. 
-* We selected a few other assets which are called "altcoins" because Bitcoin and other coins tend to go through cycles. It may be the case that Bitcoin rallies for a period then stalls out. At this point, altcoins tend to take their turn rallying. This gives an opportunity for our traders to plan and execute long and short trading strategies, and be profitable even when Bitcoin prices fall or rises. 
+* Our audience are investors/traders who are looking for techniques to maximize their opportunities for success, establish preconditions to check on their portfolios and for buying/selling assets. They are also looking for other assets that are correlated, allocate these assets to diversify their crypto portfolio, and identify assets that may bring more returns percentage wise than the others, possibly making more profits at a more accelerated pace and prevent loss.
 
+* In this project we are focused on Bitcoin because it is the largest cryptocurrency by market cap, and for its exceptional market growth. 
+
+* We selected a few other assets which are called "altcoins" because Bitcoin and other coins tend to go through cycles. It may be the case that Bitcoin rallies for a period then stalls out. At this point, altcoins tend to take their turn rallying. This gives an opportunity for our traders to plan and execute profitable long and short trading strategies.
 
     ![Bitcoin-And-Ethereum-Lacking-Buy-Volume-Altcoins-Surges](https://user-images.githubusercontent.com/80144026/125237852-31e79180-e29b-11eb-9c6d-d02d1bb63bb3.png)
 
@@ -35,7 +36,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 * First, we used prophet by Facebook to predict future pricing for Bitcoin and the selected Altcoins from most recent data. Then we identified correlated assets.
 * We wrote machine learning trading algorithms and ran three models to find the one that performed the best.
-* Lastly, we explored an algorithm for long and short positions that uses DMAC Trading Strategy,and short positions. We backtested each trading strategy and evaluated the risk/reward metrics.
+* Lastly, we explored an algorithm for long and short positions that uses DMAC Trading Strategy,and short positions. We backtested each trading strategy and evaluated the risk/reward metrics and then we evaluated the trade and portfolio.
 
 
 ## Machine Learning Models
