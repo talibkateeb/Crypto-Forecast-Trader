@@ -57,7 +57,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 [Click here to view our full presentation with the results and analysis](https://prezi.com/view/lmdvi3ffayMKfw1AQl3Q/)
 
-  # Based on Facebook Prophet forecasts for each coin, it appears that all the coins will have an upward trend in the near future.
+  ### Based on Facebook Prophet forecasts for each coin, it appears that all the coins will have an upward trend in the near future.
 
 <img width="849" alt="Screen Shot 2021-07-16 at 1 55 39 AM" src="https://user-images.githubusercontent.com/80144026/125922443-e1ea8394-979b-4ac5-8f9b-5328de48cb69.png">
 
@@ -68,7 +68,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 <img width="798" alt="Screen Shot 2021-07-16 at 1 56 06 AM" src="https://user-images.githubusercontent.com/80144026/125922494-566faefb-5c0f-4c60-b9ca-67592ea3462f.png">
 
 
-# If we also examine the forecast trends for the lower and upper values for y-hat, we see that the upward trend holds true in the forecasts for all coins.
+### If we also examine the forecast trends for the lower and upper values for y-hat, we see that the upward trend holds true in the forecasts for all coins.
 
 <img width="849" alt="Screen Shot 2021-07-16 at 1 56 12 AM" src="https://user-images.githubusercontent.com/80144026/125922557-c33dfa8c-392e-4d4b-a931-9a45d91691db.png">
 
@@ -79,17 +79,17 @@ Before you proceed, please read our disclosure at the bottom of this page.
 <img width="1204" alt="Screen Shot 2021-07-16 at 1 59 41 AM" src="https://user-images.githubusercontent.com/80144026/125922728-911697f3-ad9d-46b4-a16c-6be249b27a25.png">
 
 
-# Price of Bitcoin peaks usually on Wednesday. Price of Bitcoin peaks usually around March/April.
+### Price of Bitcoin peaks usually on Wednesday. Price of Bitcoin peaks usually around March/April.
 
 <img width="849" alt="Screen Shot 2021-07-16 at 1 59 49 AM" src="https://user-images.githubusercontent.com/80144026/125922783-e5bace66-e1d9-46b7-853c-9c0af2cf034e.png">
 
 
-# Based on the calculated correlation, we can see that Litecoin correlates the most closely with Bitcoin, then Ethereum, then Cardano. 
+### Based on the calculated correlation, we can see that Litecoin correlates the most closely with Bitcoin, then Ethereum, then Cardano. 
 
 <img width="849" alt="Screen Shot 2021-07-16 at 1 59 55 AM" src="https://user-images.githubusercontent.com/80144026/125922813-2357f12e-bc5b-4678-956f-dbd6dc96481c.png">
 
 
-# We then evaluated the three different models using a classification report. Based on the evaluations, the logistic regression classification model performed the best. 
+### We then evaluated the three different models using a classification report. Based on the evaluations, the logistic regression classification model performed the best. 
 
 <img width="849" alt="Screen Shot 2021-07-16 at 2 00 08 AM" src="https://user-images.githubusercontent.com/80144026/125922842-4bffd431-edda-4a0e-a0f7-9d1681252447.png">
 
@@ -98,7 +98,7 @@ Before you proceed, please read our disclosure at the bottom of this page.
 <img width="849" alt="Screen Shot 2021-07-16 at 2 00 23 AM" src="https://user-images.githubusercontent.com/80144026/125922911-a69cc734-2dbb-4298-8c0c-16177a0a0b55.png">
 
 
-# Overall, it seems that our DMAC Long Position Trading Algorithm produces minimal loss and impressive returns on investment.
+### Overall, it seems that our DMAC Long Position Trading Algorithm produces minimal loss and impressive returns on investment.
 
 <img width="849" alt="Screen Shot 2021-07-16 at 2 07 21 AM" src="https://user-images.githubusercontent.com/80144026/125923262-561d9e44-d3c4-437a-b67e-3be801e91790.png">
 
