@@ -53,6 +53,35 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * We used the most recent crypto currency data from [coindesk.com](coindesk.com) under [RESOURCES](https://github.com/talibkateeb/Crypto-Forecast-Trader/tree/main/data) 
 
 
+## Results and Analysis 
+
+[Click here to view our full presentation with the results and analysis](https://prezi.com/view/lmdvi3ffayMKfw1AQl3Q/)
+
+* Based on Facebook Prophet forecasts for each coin, it appears that all the coins will have an upward trend in the near future.
+
+* If we also examine the forecast trends for the lower and upper values for y-hat, we see that the upward trend holds true in the forecasts for all coins.
+
+* Price of Bitcoin peaks usually on Wednesday. Price of Bitcoin peaks usually around March/April.
+
+* Based on the calculated correlation, we can see that Litecoin correlates the most closely with Bitcoin, then Ethereum, then Cardano. 
+
+* We then evaluated the three different models using a classification report. Based on the evaluations, the logistic regression classification model performed the best. 
+
+*  Overall, it seems that our DMAC Long Position Trading Algorithm produces minimal loss and impressive returns on investment.
+
+## Conclusion
+
+Based on the machine learning trading algorithm that we used, we found that,when used by itself, it is not a reliable tool for guaranteed profitability. But if used with other trading tools and methodologies like RSI, Bollinger Bands, MonteCarlo Forecasting and others, it can result in a profitable trade for predicting trade signals and strategy returns for both long and short positions.
+
+## Next Steps
+
+* Tune the hyper-parameters of the machine learning models with GridSearchCV. Major parameters include: Kernels, C (Regularisation), and Gamma.
+
+* Explore more trading tools &  methodologies (Bollinger Bands, Monte Carlo Forecasting, RSI,  Gann Fann , Fibonacci retracement , etc.)
+
+* Add a CLI using AWS Services to create a trader that users can interact with to give recommendations on trades.
+
+
 ## Technologies
 
 This project is written in Python within the Jupyter Lab environment with the following packages:
