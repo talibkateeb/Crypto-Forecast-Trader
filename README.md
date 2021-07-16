@@ -2,11 +2,10 @@
 
 
 
-Before you proceed, please read our disclosure at the bottom of this page.
 
    <img width="1000" alt="Screen Shot 2021-07-16 at 3 46 43 AM" src="https://user-images.githubusercontent.com/80144026/125936440-7fadabf0-3884-441f-88ba-38316c9fd15f.png">
 
-
+Before you proceed, please read our disclosure at the bottom of this page.
 
 ## Presentation with Results and Analysis
 
