@@ -1,13 +1,11 @@
 # 365 TRADER AI
 
 
-### A Machine Learning Trading Algorithm Project
 
 Before you proceed, please read our disclosure at the bottom of this page.
 
+   <img width="1000" alt="Screen Shot 2021-07-16 at 3 46 43 AM" src="https://user-images.githubusercontent.com/80144026/125936440-7fadabf0-3884-441f-88ba-38316c9fd15f.png">
 
-
-   ![Bitcoin-Traders-–-The-Official-Trading-Bot](https://user-images.githubusercontent.com/80144026/125231211-2c844a00-e28f-11eb-9f95-b3c4a9ba0832.png)
 
 
 ## Presentation with Results and Analysis
@@ -56,6 +54,10 @@ We used the most recent crypto currency data from [coindesk.com](coindesk.com) u
 
 
 ## Results and Analysis 
+
+<img width="1202" alt="Screen Shot 2021-07-16 at 3 25 43 AM" src="https://user-images.githubusercontent.com/80144026/125934503-0f7f906c-11ef-47e9-9938-e2c8c94f30e3.png">
+
+
 
 [Click here to view our full presentation with the results and analysis](https://prezi.com/view/lmdvi3ffayMKfw1AQl3Q/)
 
