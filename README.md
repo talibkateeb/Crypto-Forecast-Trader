@@ -10,6 +10,10 @@ Before you proceed, please read our disclosure at the bottom of this page.
    ![Bitcoin-Traders-–-The-Official-Trading-Bot](https://user-images.githubusercontent.com/80144026/125231211-2c844a00-e28f-11eb-9f95-b3c4a9ba0832.png)
 
 
+## Presentation with Results and Analysis
+
+[Click here to view our full presentation with the results and analysis](https://prezi.com/view/lmdvi3ffayMKfw1AQl3Q/)
+
 ## Executive Summary
 
 * In this project we are building a cryptocurrency machine learning trading algorithm focusing on Bitcoin, and that can be used for any crytocurrency asset.
@@ -43,19 +47,6 @@ Before you proceed, please read our disclosure at the bottom of this page.
 * We used Supervised Learning > Classification: SVM, Logistic Regression, Naive Bayes
 
 ![Supervised-Learning](https://user-images.githubusercontent.com/80144026/125231479-acaaaf80-e28f-11eb-838f-d0a29a4dd597.jpg)
-
-
-
-## Results and Conclusions
-PRICE FORECASTING: (under construction)
-
-CORRELATION: (under construction)
-
-MACHINE LEARNING TRADING ALGORITHM: (under construction)
-
-LONG AND SHORT POSITION: (under construction)
-
-
 
 
 ## Data Collection Source
@@ -118,9 +109,6 @@ warnings.filterwarnings('ignore')
 ```
 Clone to your local repo and run in JupyterLab
 
-
-## Next Steps
-(Under Construction)
 
 ## Contributors
 
