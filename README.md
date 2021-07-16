@@ -57,9 +57,9 @@ Before you proceed, please read our disclosure at the bottom of this page.
 
 [Click here to view our full presentation with the results and analysis](https://prezi.com/view/lmdvi3ffayMKfw1AQl3Q/)
 
-  ### Based on Facebook Prophet forecasts for each coin, it appears that all the coins will have an upward trend in the near future.
+### Based on Facebook Prophet forecasts for each coin, it appears that all the coins will have an upward trend in the near future.
 
-<img width="849" alt="Screen Shot 2021-07-16 at 1 55 39 AM" src="https://user-images.githubusercontent.com/80144026/125922443-e1ea8394-979b-4ac5-8f9b-5328de48cb69.png">
+<img width="849" alt="Screen Shot 2021-07-16 at 2 19 05 AM" src="https://user-images.githubusercontent.com/80144026/125924724-ec23f944-3483-419a-b38a-bf26cfe15891.png">
 
 <img width="829" alt="Screen Shot 2021-07-16 at 1 55 51 AM" src="https://user-images.githubusercontent.com/80144026/125922467-ac041708-9fe1-4b00-85e5-4921b7c2ec88.png">
 
